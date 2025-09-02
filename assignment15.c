@@ -10,7 +10,7 @@ int main()
 	root1= (-b + sqrt((pow(b,2)- 4*a*c)))/2*a;
 	root2= (-b - sqrt((pow(b,2)- 4*a*c)))/2*a;
 	
-	printf("the roots are %f and %f", root1,root2);+
+	printf("the roots are %f and %f", root1,root2);
 	return 0;
 	
 }
